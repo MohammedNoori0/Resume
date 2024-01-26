@@ -46,7 +46,7 @@ var typed = new Typed('#typed', {
         'Cloud Architect',
         'Cloud Engineer',
         'Security Specialist',
-        'Penetration Tester'
+        'Cloud Analyst'
     ],
     typeSpeed: 50,
     backSpeed: 50,
@@ -58,7 +58,7 @@ var typed_2 = new Typed('#typed_2', {
         'Cloud Enthusiast',
         'Cloud Engineer',
         'Security Specialist',
-        'Penetration Tester'
+        'Cloud Analyst'
     ],
     typeSpeed: 50,
     backSpeed: 50,
